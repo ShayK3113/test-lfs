@@ -1,0 +1,2 @@
+[lfs]
+	url = http://gitea:gitea@192.168.14.149:3030/test-lfs/info/lfs
