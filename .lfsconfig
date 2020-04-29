@@ -1,2 +1,2 @@
 [lfs]
-	url = http://gitea:gitea@192.168.14.149:3030/test-lfs/info/lfs
+	url = http://192.168.14.149:3030/test/test-lfs.git/info/lfs
